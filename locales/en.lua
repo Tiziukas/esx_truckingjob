@@ -1,4 +1,4 @@
-Locales['en'] = {
+return {
   ["blips_pickup"] = "Pickup Trailer",
   ["blips_dropoff"] = "Delivery Point",
   ["blips_return"] = "Return Truck",
